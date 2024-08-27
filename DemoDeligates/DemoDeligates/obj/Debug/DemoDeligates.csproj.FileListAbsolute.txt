@@ -1,0 +1,7 @@
+C:\Users\Abhaynarayan\source\repos\DemoDeligates\DemoDeligates\bin\Debug\DemoDeligates.exe.config
+C:\Users\Abhaynarayan\source\repos\DemoDeligates\DemoDeligates\bin\Debug\DemoDeligates.exe
+C:\Users\Abhaynarayan\source\repos\DemoDeligates\DemoDeligates\bin\Debug\DemoDeligates.pdb
+C:\Users\Abhaynarayan\source\repos\DemoDeligates\DemoDeligates\obj\Debug\DemoDeligates.csproj.AssemblyReference.cache
+C:\Users\Abhaynarayan\source\repos\DemoDeligates\DemoDeligates\obj\Debug\DemoDeligates.csproj.CoreCompileInputs.cache
+C:\Users\Abhaynarayan\source\repos\DemoDeligates\DemoDeligates\obj\Debug\DemoDeligates.exe
+C:\Users\Abhaynarayan\source\repos\DemoDeligates\DemoDeligates\obj\Debug\DemoDeligates.pdb

@@ -1,0 +1,7 @@
+C:\Users\Abhaynarayan\source\repos\AirtelCaseStudy1\AirtelCaseStudy1\bin\Debug\AirtelCaseStudy1.exe.config
+C:\Users\Abhaynarayan\source\repos\AirtelCaseStudy1\AirtelCaseStudy1\bin\Debug\AirtelCaseStudy1.exe
+C:\Users\Abhaynarayan\source\repos\AirtelCaseStudy1\AirtelCaseStudy1\bin\Debug\AirtelCaseStudy1.pdb
+C:\Users\Abhaynarayan\source\repos\AirtelCaseStudy1\AirtelCaseStudy1\obj\Debug\AirtelCaseStudy1.csproj.AssemblyReference.cache
+C:\Users\Abhaynarayan\source\repos\AirtelCaseStudy1\AirtelCaseStudy1\obj\Debug\AirtelCaseStudy1.csproj.CoreCompileInputs.cache
+C:\Users\Abhaynarayan\source\repos\AirtelCaseStudy1\AirtelCaseStudy1\obj\Debug\AirtelCaseStudy1.exe
+C:\Users\Abhaynarayan\source\repos\AirtelCaseStudy1\AirtelCaseStudy1\obj\Debug\AirtelCaseStudy1.pdb
